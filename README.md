@@ -1,4 +1,4 @@
-# Elastic-PPQ
+# YSB-TBB
 This repository provides the implementation of the Yahoo Streaming Benchmark in Intel TBB (FlowGraph). The version of the YSB is the one mentioned in:
 
 https://databricks.com/blog/2017/10/11/benchmarking-structured-streaming-on-databricks-runtime-against-state-of-the-art-streaming-systems.html
