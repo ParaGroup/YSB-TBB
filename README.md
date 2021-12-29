@@ -6,4 +6,4 @@ https://databricks.com/blog/2017/10/11/benchmarking-structured-streaming-on-data
 where the interaction with external services has been removed to test the peak performance of different Stream Processing Systems.
 
 # Contributors
-YSB-TBB has been developed by [Gabriele Mencagli](mailto:mencagli@di.unipi.it).
+YSB-TBB has been developed by [Gabriele Mencagli](mailto:gabriele.mencagli@di.unipi.it).
